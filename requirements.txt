@@ -1,0 +1,9 @@
+pandas
+numpy
+# Lock the Scikit-learn version to match the saving environment
+scikit-learn==1.6.1 
+matplotlib
+seaborn
+streamlit
+joblib
+pyngrok
